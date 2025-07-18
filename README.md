@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jordi Vann 👨‍💻</h1>
+<h1 align="center">Hola, soy Jordi Van Norden 👨‍💻</h1>
 <p align="center">
 Desarrollador web con enfoque en frontend moderno, integrando backend con Node.js y automatizaciones útiles con Python.
 </p>
