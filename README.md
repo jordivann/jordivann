@@ -21,7 +21,6 @@ Desarrollador web con sólida base en frontend moderno. Explorando e implementan
 
 | Frontend       | Backend           | Base de Datos     | Otros            |
 |----------------|-------------------|-------------------|------------------|
-| Frontend                | Backend          | Base de datos        | Otros            |
 |-------------------------|------------------|-----------------------|------------------|
 | React · Vue · Angular   | Node.js · Express| SQL · PostgreSQL      | Git · Python     |
 
