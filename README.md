@@ -56,12 +56,11 @@ Procesamiento de archivos y generación de reportes desde navegador.
 
 ### 📫 Contacto
 
-- 📧 jordivann@ejemplo.com  
-- 💼 [LinkedIn](https://linkedin.com/in/jordivann)  
-- 🌍 [jordivann.github.io](https://jordivann.github.io)
+- 📧 jordievannorden@gmail.com  
+
 
 ---
 
 <p align="center">
-  <em>“No se trata solo de programar. Se trata de pensar en soluciones prácticas.”</em>
+  <em>“No se trata solo de que funcione. Que resuelva es importante.”</em>
 </p>
