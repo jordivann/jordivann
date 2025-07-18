@@ -49,8 +49,6 @@ Procesamiento de archivos y generación de reportes desde navegador.
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordivann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordivann&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
