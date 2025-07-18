@@ -1,16 +1,17 @@
 <h1 align="center">Hola, soy Jordi Van Norden 👨‍💻</h1>
 <p align="center">
-Desarrollador web con enfoque en frontend moderno, integrando backend con Node.js y automatizaciones útiles con Python.
+Desarrollador web con sólida base en frontend moderno. Explorando e implementando backend con Node.js y Express para proyectos full stack.
 </p>
 
 ---
 
 ### 💼 Sobre mí
 
-- 🎯 Me especializo en **interfaces limpias y funcionales**
-- 🌐 Trabajo con **React**, **Vue**, **Angular** y estilos modernos como **Tailwind**
-- 🧠 Desarrollo soluciones **full stack** con Node.js + SQL
-- ⚙️ Aplico automatización donde sea útil, con **Python o JavaScript**
+- 🎯 Me enfoco en construir **interfaces limpias, accesibles y funcionales**.
+- 💡 Trabajo con **React**, **Vue** y **Angular**.
+- 🎨 Prefiero escribir **CSS puro** cuando el diseño lo permite, aunque utilizo librerías si aportan valor.
+- 🔧 Integro lógica de backend con **Node.js** y consultas **SQL** para proyectos full stack.
+- ⚙️ Desarrollo scripts y herramientas de **automatización** con **JavaScript** y **Python**, según la necesidad técnica.
 
 ---
 
@@ -20,7 +21,10 @@ Desarrollador web con enfoque en frontend moderno, integrando backend con Node.j
 
 | Frontend       | Backend           | Base de Datos     | Otros            |
 |----------------|-------------------|-------------------|------------------|
-| React · Vue · Angular | Node.js · Express | SQL · PostgreSQL · SQLite | Git · Python · Web Automation |
+| Frontend                | Backend          | Base de datos        | Otros            |
+|-------------------------|------------------|-----------------------|------------------|
+| React · Vue · Angular   | Node.js · Express| SQL · PostgreSQL      | Git · Python     |
+
 
 </div>
 
@@ -40,7 +44,7 @@ SPA simple para crear y guardar presupuestos localmente.
 Procesamiento de archivos y generación de reportes desde navegador.  
 `Python + Flask + HTML/CSS/JS`
 
-🗂️ [Ver todos mis proyectos](https://github.com/jordivann?tab=repositories)
+/* 🗂️ [Ver todos mis proyectos](https://github.com/jordivann?tab=repositories) */ 
 
 ---
 
