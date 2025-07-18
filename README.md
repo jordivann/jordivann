@@ -62,5 +62,5 @@ Procesamiento de archivos y generación de reportes desde navegador.
 ---
 
 <p align="center">
-  <em>“No se trata solo de que funcione. Que resuelva es importante.”</em>
+  <em>“Un buen código no solo corre: resuelve.”</em>
 </p>
