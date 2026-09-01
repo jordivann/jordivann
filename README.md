@@ -30,6 +30,10 @@ Desarrollador web con sólida base en frontend moderno. Explorando e implementan
 
 ### 🚀 Proyectos Destacados
 
+### Página Landing  - Servicios - <a href="_blank"> https://skn-landing.vercel.app </a> ### 
+Proyecto FrontEnd - SEO - posicionamiento 
+`Vite React`  
+
 #### ⚙️ Sistema Web de Gestión Interna
 App completa con login, CRUD, roles y reportes dinámicos.  
 `React + Node.js + PostgreSQL`
