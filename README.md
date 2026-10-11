@@ -1,125 +1,101 @@
-
 <div align="center">
 
 # Hola, soy Jordi Van Norden 👋
 
-### Software Developer | Full Stack Development & Automation
+### Software Developer | Web Applications · Business Systems · Automation
 
-Desarrollo aplicaciones web, sistemas de gestión y herramientas de automatización orientadas a resolver problemas reales.
-
-**React · TypeScript · Python · PostgreSQL · Supabase**
+Desarrollo soluciones de software que simplifican procesos, organizan información y resuelven necesidades reales.
 
 📍 Córdoba, Argentina
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jordivann)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordievannorden@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/van-norden-jordi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jordivann?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordievannorden@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-Soy desarrollador de software, enfocado en crear soluciones digitales funcionales, escalables y adaptadas a necesidades concretas.
+Soy desarrollador de software con interés en construir aplicaciones prácticas, seguras y mantenibles. Trabajo en proyectos que combinan interfaces web, lógica de negocio, bases de datos e integración de servicios.
 
-Mi trabajo combina desarrollo frontend, lógica de negocio, bases de datos y automatización de procesos.
+- **Aplicaciones web:** desarrollo de interfaces y funcionalidades con React, TypeScript y JavaScript.
+- **Sistemas de gestión:** modelado de datos, autenticación, permisos y flujos operativos.
+- **Automatización:** herramientas en Python para procesar información y reducir tareas manuales.
+- **Calidad de software:** validaciones, pruebas, seguridad y mejora continua.
 
-- 🚀 Desarrollo aplicaciones web y sistemas de gestión.
-- 🧩 Diseño interfaces y flujos de trabajo con React y TypeScript.
-- 🗄️ Trabajo con PostgreSQL, Supabase, autenticación y control de acceso.
-- 🐍 Creo herramientas de automatización y procesamiento de datos con Python.
-- 🔐 Priorizo la seguridad, mantenibilidad y optimización del software.
-- 📈 Me interesa transformar procesos manuales en soluciones tecnológicas eficientes.
+> Mi objetivo es que cada solución sea útil para quien la utiliza, no solo que funcione técnicamente.
 
----
+## Tecnologías
 
-## 🛠️ Tecnologías y herramientas
+| Área | Tecnologías y herramientas |
+| --- | --- |
+| **Frontend** | React · TypeScript · JavaScript · HTML · CSS · Vue · Angular |
+| **Backend y servicios** | Node.js · Express · Python · Supabase |
+| **Datos** | PostgreSQL · SQL · MySQL · Firebase |
+| **Desarrollo y calidad** | Git · GitHub · Vite · REST APIs · Pytest |
 
-| Área | Tecnologías |
-|---|---|
-| **Frontend** | React, TypeScript, JavaScript, HTML, CSS, Vue, Angular |
-| **Backend y APIs** | Node.js, Express, Python, Supabase |
-| **Bases de datos** | PostgreSQL, SQL, MySQL, Firebase |
-| **Herramientas** | Git, GitHub, Vite, VS Code, Postman |
-| **Conceptos** | REST APIs, autenticación, RLS, CRUD, automatización, testing |
+## Proyectos destacados
 
----
+### 🏢 Plataforma de gestión administrativa — en desarrollo
 
-## 🚀 Proyectos destacados
+Aplicación web orientada a centralizar **requerimientos, órdenes de trabajo, clientes, sucursales, personal, valorizaciones y facturación**.
 
-### 🏢 Plataforma de Gestión Administrativa
-
-**Aplicación web de gestión operativa y administrativa.**
-
-Sistema en desarrollo para centralizar requerimientos, órdenes de trabajo, clientes, sucursales, personal, valorizaciones y facturación.
-
-**Aspectos técnicos:**
-- Arquitectura multicliente y control de permisos por roles.
-- Autenticación y autorización con Supabase.
-- Seguridad de datos mediante Row Level Security (RLS).
-- Base de datos PostgreSQL con funciones, triggers y auditoría.
-- Interfaces desarrolladas con React y TypeScript.
+**Desafíos técnicos:** arquitectura multicliente, autenticación, autorización por roles, políticas de seguridad a nivel de fila (RLS), funciones y triggers de PostgreSQL, y flujos de gestión con trazabilidad.
 
 `React` `TypeScript` `Supabase` `PostgreSQL`
 
-*Proyecto en desarrollo · Repositorio privado*
+*Proyecto privado. Se comparte una descripción general, sin código ni información confidencial.*
 
-### 🌱 Herramienta de Procesamiento de Movilidad
+### 🌱 Procesamiento de movilidad para eventos — en desarrollo
 
-**Automatización de cálculos de distancias para el análisis de movilidad en eventos.**
+Herramienta de escritorio que permite **importar registros desde Excel, normalizar orígenes, calcular distancias y exportar resultados** para su revisión.
 
-Aplicación de escritorio en Python que procesa registros desde Excel, normaliza ubicaciones geográficas y calcula distancias mediante servicios de geocodificación y enrutamiento.
+**Desafíos técnicos:** integración con servicios de geocodificación y rutas, procesamiento por lotes, caché, tratamiento de errores y pruebas automatizadas.
 
-**Aspectos técnicos:**
-- Procesamiento de registros en lotes.
-- Integración con servicios externos de geolocalización.
-- Caché y tratamiento de errores de proveedores.
-- Validación de datos y pruebas automatizadas.
-- Exportación de resultados a Excel.
+`Python` `Excel` `APIs` `Pytest`
 
-`Python` `APIs` `Excel` `Pytest`
+*Proyecto de uso interno en desarrollo; no se publican datos ni credenciales.*
 
-*Proyecto en desarrollo · Herramienta interna*
+### 🌐 SKN IT — sitio corporativo
 
-### 🌐 SKN IT — Sitio Web Corporativo
-
-Landing page desarrollada para presentar servicios tecnológicos, soluciones de infraestructura y canales de contacto.
-
-**Aspectos técnicos:**
-- Diseño responsive y experiencia de navegación.
-- Organización de servicios y contenido corporativo.
-- Optimización de estructura web y SEO.
-- Despliegue en Vercel.
+Sitio web para presentar servicios tecnológicos, con diseño adaptable a diferentes pantallas y una estructura orientada a la navegación y al posicionamiento web.
 
 `React` `Next.js` `CSS` `Vercel`
 
-🔗 [Ver sitio web](https://skn-landing.vercel.app/)
+🔗 **[Visitar el sitio](https://skn-landing.vercel.app/)**
 
-### 🏠 Catálogo de Departamentos
+### 🏠 Catálogo de departamentos
 
-Aplicación web para consultar y presentar información de propiedades mediante una interfaz adaptable a distintos dispositivos.
+Aplicación web para organizar y presentar información sobre propiedades, con una interfaz responsive.
 
-`React` `Firebase` `TypeScript`
+`React` `Firebase`
 
-🔗 [Ver repositorio](https://github.com/jordivann/Nuestros-departamentos)
+🔗 **[Explorar mis repositorios](https://github.com/jordivann?tab=repositories)**
 
+### 🧾 Cotizador de presupuestos
 
----
+Herramienta web orientada a facilitar la preparación de presupuestos desde una interfaz sencilla.
 
-## 📌 Mi enfoque de desarrollo
+`JavaScript` `Web App`
 
-**Problema → Análisis → Diseño → Implementación → Validación**
-
-Me interesa construir software que no solo funcione técnicamente, sino que mejore procesos, reduzca tareas repetitivas y aporte valor real.
-
----
-
-## 📫 Contacto
-
-Estoy abierto a colaborar en proyectos de desarrollo web, aplicaciones de gestión y automatización de procesos.
-
-- 📧 **Email:** [jordievannorden@gmail.com](mailto:jordievannorden@gmail.com)
-- 💻 **GitHub:** [github.com/jordivann](https://github.com/jordivann)
+🔗 **[Explorar mis repositorios](https://github.com/jordivann?tab=repositories)**
 
 ---
 
+## Cómo trabajo
+
+**Comprender el problema → Diseñar la solución → Implementar → Probar → Mejorar**
+
+Me interesa especialmente la creación de software para optimizar operaciones, automatizar tareas repetitivas y convertir información en herramientas útiles para tomar decisiones.
+
+## Contacto
+
+Estoy abierto a intercambiar ideas y colaborar en proyectos de desarrollo de software y automatización.
+
+- **LinkedIn:** [linkedin.com/in/van-norden-jordi](https://www.linkedin.com/in/van-norden-jordi/)
+- **Correo:** [jordievannorden@gmail.com](mailto:jordievannorden@gmail.com)
+- **GitHub:** [github.com/jordivann](https://github.com/jordivann)
+
+---
