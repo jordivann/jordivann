@@ -103,13 +103,6 @@ Aplicación web para consultar y presentar información de propiedades mediante 
 
 🔗 [Ver repositorio](https://github.com/jordivann/Nuestros-departamentos)
 
-### 🧾 Cotizador de Presupuestos
-
-Herramienta web para facilitar la generación y organización de presupuestos.
-
-`JavaScript` `Web App`
-
-🔗 [Ver repositorio](https://github.com/jordivann/cotizador)
 
 ---
 
@@ -130,8 +123,3 @@ Estoy abierto a colaborar en proyectos de desarrollo web, aplicaciones de gesti�
 
 ---
 
-<div align="center">
-
-*"Un buen código no solo corre: resuelve."*
-
-</div>
